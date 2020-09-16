@@ -1,2 +1,7 @@
 ssm-app
 1. java based application
+2. postgresql
+3. pom.xmlk
+4. Dockerfile
+5. Jenkinsfile
+6. azure-pipeline.yml
