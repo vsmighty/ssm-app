@@ -5,3 +5,4 @@ ssm-app
 4. Dockerfile
 5. Jenkinsfile
 6. azure-pipeline.yml
+7. terraform script 
